@@ -42,6 +42,11 @@ The aim of this project is to develop a simple **Voice Assistant** using Python.
    - Runs continuously until the user exits with `"quit"` or `"exit"`.  
 
 ---
+### Linkedin post link
+
+- https://www.linkedin.com/posts/reshma-sappa17_oasisinfobyte-python-voiceassistant-activity-7377658277691650049-eQbi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-MUmQBtrxqvplzumTx7fojAJQ_UfxwUg8
+
+---
 
 ###  Sample Code Snippet  
 
