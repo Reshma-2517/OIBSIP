@@ -46,3 +46,7 @@ The password includes a mix of **special characters, alphabets, and numbers** ac
 
 -aB$3&kL9
 
+## Linkedin post link 
+
+-https://www.linkedin.com/posts/reshma-sappa17_oibsippasswordgeneratorpy-at-main-reshma-activity-7377659317338112000-quen?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-MUmQBtrxqvplzumTx7fojAJQ_UfxwUg8
+
