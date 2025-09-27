@@ -55,4 +55,8 @@ The application allows users to input their weight and height, calculates BMI, a
 
 ---
 
+## Linkedin post link
+
+-https://www.linkedin.com/posts/reshma-sappa17_oasisinfobyte-python-bmicalculator-activity-7377656537072328704-3lxJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-MUmQBtrxqvplzumTx7fojAJQ_UfxwUg8
+
 **Thank you for reviewing my submission!**
