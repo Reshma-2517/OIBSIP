@@ -59,4 +59,13 @@ The application allows users to input their weight and height, calculates BMI, a
 
 -https://www.linkedin.com/posts/reshma-sappa17_oasisinfobyte-python-bmicalculator-activity-7377656537072328704-3lxJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-MUmQBtrxqvplzumTx7fojAJQ_UfxwUg8
 
+---
+
+## Results
+<img width="625" height="539" alt="image" src="https://github.com/user-attachments/assets/ebfe2582-de88-46df-9f30-002c8d10c28a" />
+<img width="623" height="529" alt="image" src="https://github.com/user-attachments/assets/89dc2dc6-038e-4a54-a693-e26b1611c42e" />
+<img width="620" height="520" alt="image" src="https://github.com/user-attachments/assets/04940328-433b-4b7c-b9bd-17bffed94351" />
+<img width="612" height="517" alt="image" src="https://github.com/user-attachments/assets/3d7a9496-06cd-4cb4-801d-f402a311f15a" />
+<img width="621" height="533" alt="image" src="https://github.com/user-attachments/assets/2353faea-4baf-4c04-a0d9-5d5735384ec4" />
+
 **Thank you for reviewing my submission!**
